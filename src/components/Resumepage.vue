@@ -83,7 +83,7 @@
                         <ul>
                             <li class="pb-2">
                                 <h1 class="text-xl font-bold">
-                                    <>
+                                 &lt;&gt;
                                 </h1>
                                 <p class="text-lg">HTML, CSS, BootStrap, TailWind, <br>
                                     JavaScript, C, Python, Java, SQL, Git, <br>
